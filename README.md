@@ -1,5 +1,5 @@
 # rede2018
-Rede de Financiamento Eleitoral nas Eleições de 2018
+Scripts para a Geração da Rede de Financiamento Eleitoral nas Eleições de 2018
 
 Seqüencia de scripts python a serem executados na geração de tabelas de nós e arestas 
 da rede de financiamento da eleiçoes de 2018 no Brasil.
